@@ -73,14 +73,14 @@ nav.from("h2", {
 })
 nav.from("li", {
     y: -20,
-    duration: 2,
+    duration: 1,
     stagger: 0.3,
     opacity: 0,
 })
 
 nav.from(".Welcome", {
     y: 20,
-    duration: 2,
+    duration: 1,
     opacity: 0,
     delay: 0.2,
     scale: 0.5,
